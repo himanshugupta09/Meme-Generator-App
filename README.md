@@ -25,15 +25,17 @@ To run the Meme Generator locally, follow these steps:
 1. Clone the repository:
    
    git clone https://github.com/himanshugupta09/Meme-Generator-App.git
+   
 2.Navigate to the project directory:
-
-    cd Meme-Generator
+   cd Meme-Generator
+   
 3. Install dependencies:
    npm install
 
 4. Start the development server:
     npm start
-5. Open your web browser and visit http://localhost:3000 to use the Meme Generator.
+   
+6. Open your web browser and visit http://localhost:3000 to use the Meme Generator.
 
 ## Contributing
   Contributions are welcome! If you'd like to contribute to the project, please follow these guidelines:
